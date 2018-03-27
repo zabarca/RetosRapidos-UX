@@ -13,7 +13,8 @@ Del libro Solving Product Design Exercises (autor) se extrajeron 23 retos, los q
 
 El propósito de estos ejercicios es revisar y practicar posibles retos veloces recibidos en entrevistas laborales. Los que son dados para revisar el razonamiento (los más rápidos); otros toman más tiempo e incluso existen aquellos que deben ser resueltos en equipo y que permiten respaldar las soluciones y decisiones. Por último, existe el ejercicio “take home” cuyo resultado debiese ser más detallado y para los que se espera un prototipo de media o alta fidelidad, dependiendo del tiempo dado.
 
-Los ejercicios entre los que se deben elegir tres son:
+## Los ejercicios 
+Sólo debía elegir tres ejercicios de esta lista:
 
 * Diseña un landing page para un producto físico que cuesta más de US$ 200
 * Linkedin ha decidido crear un marketplace para freelancers. Diseña un flujo para contratar un profesional.
