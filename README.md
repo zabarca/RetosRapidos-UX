@@ -1,6 +1,7 @@
 # RetosRapidos-UX  
 
 Este desarrollo corresponde a una de las últimas actividades desarrolladas en el curso de especialización UX de @Laboratoriala. Desde el libro Solving Product Design Exercises (Artiom Dashinsky) se extrajeron 23 retos, los que debían ser resueltos siguiendo instrucciones específicas.
+![Solving-Product-Design-Exercise](https://image.ibb.co/nbKYkS/DUUc_Wn9_W0_AECn_z.jpg)
 
 Este desarrollo corresponde a una de las últimas actividades desarrolladas en el curso de especialización UX de @Laboratoria, y el propósito central es ejercitar procesos de razonamiento, solución y diseño rápido con miras a posibles entrevistas laborales.
 
