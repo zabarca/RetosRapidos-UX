@@ -40,5 +40,19 @@ Sólo debía elegir tres ejercicios de esta lista:
 * Crea un producto que ayude a las personas a mudarse a un nuevo país
 * Diseña la UI de las pantallas de asientos de un avión/bus
   
-En mi caso particular, y luego de revisar todos los retos de la lista, decidí quedarme con: i) ; ii) ; iii). A los que aplicaría, en ese orden, las instrucciones de tiempo
+En mi caso particular, y luego de revisar todos los retos de la lista, decidí quedarme con: i)Diseña un landing page para un producto físico que cuesta más de US$ 200; 
+ii) ; iii). A los que aplicaría, en ese orden, las instrucciones de tiempo, pero además le añadí un desafío extra: hacer un sketch siempre y digitalizarlo en Marvel.
+
+### Primer Ejercicio
+En el ejercicio uno, aquel que sólo debía durar 30 minutos opté por armar una landing page para un celular en que se mostrará el producto, sus características principales, un vídeo de su performance, información sobre el precio y un footer que incorporará enlaces a otras secciones del site, así como las redes sociales de la marca.
+![Sketch]( https://image.ibb.co/ennOn7/IMG_20180328_194523.jpg)
+Lo primero que hice fue establecer las secciones que tendría la página. Si es sobre un producto, idealmente debe iniciar con éste, para que el usuario se sienta atraído a conocer más y recorra el resto de la página. En mi caso, seleccioné como producto un celular, ninguna marca en particular, sólo un smartphone. A continuación, ubique un vídeo que mostrará la performance del equipo, seguida de una sección que informará de las tres principales características que tiene el teléfono y que le permiten destacar de otros similares disponibles en el mercado. Luego, los precios, destacando aquel que es el más popular o el más elegido; con un breve resumen que permita entender la diferencia de precios entre un modelo y otro. Cerrando se posicionó un footer que permite navegar por la landing page y en el resto de site; presentar accesos directos a las principales redes sociales; y, un input que permite acceder a los newsletter del producto y de la marca.
+Sin perder tiempo, pasé al siguiente requisito autoimpuesto y pasé al prototipado. 
+![proto-landing]( https://image.ibb.co/hAefZn/dise_o_30_minutos.png)
+Al traspasar el diseño, lo primero que me encontré con que debía cambiar el orden de la sección dos (vídeo de performance) por la sección tres (features), básicamente prefería poner el vídeo en el medio de la página para darle un respiro al usuario y hacer más agradable la entrada en la sección de pricing, pues no sólo habría leído las características, sino que lo habría visto en acción en el vídeo lo que -asumo- *podría* aumentar los niveles de comprensión, en particular en las personas más jóvenes.
+
+#### Conclusión primer ejercicio
+Aunque el tiempo no me permitió incorporar fotografías o dibujos a las secciones correspondientes o desarrollar el contenido que llevaría cada sección del landing. Claramente, en 30 minutos no podría realizar el diseño del modo que quisiera con: una paleta de colores definida, colores, tipografía, contenido visual y textual.
+No obstante, a pesar del corto tiempo me siento satisfecha con el producto creado. Aunque, también reconoceré que para el primer reto escogí algo seguro, pues una landing page básica no debería tomar mucho más tiempo en lo visual, pero me hubiese gustado explorar el mercado, que está de moda, las evoluciones, las nuevas propuestas, etc. 
+
 
