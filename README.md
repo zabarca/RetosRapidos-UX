@@ -55,5 +55,26 @@ No obstante, a pesar del corto tiempo me siento satisfecha con el producto cread
 
 #  
 
+
 ### Segundo Ejercicio
-En el segundo ejercicio, que debía durar como máximo 2 horas, opté por hacer uso de mi expericiencia previa como docente de aula y elegí el desafío de "diseñar un app mobile para que los profesores puedan administrar a sus cursos".
+En el segundo ejercicio, que debía durar como máximo 2 horas, opté por hacer uso de mi experiencia previa como docente de aula y elegí el desafío de "diseñar una app mobile para que los profesores puedan administrar a sus cursos".  
+ Sabiendo que tenía por delante el diseño no sólo una pantalla, sino de un flujo claro y coherente de distintas pantallas que, en suma, cubrieran una parte esencial de la administración de cursos. Debí omitir una de mis partes favoritas del research: en benchmark. Aunque si tenía el conocimiento de cómo funcionan algunas aplicaciones, desde la perspectiva del usuario, sé que no hay una aplicación que se enfoque, exclusivamente, en la administración de cursos.  
+#### Research
+Corriendo el reloj, me lancé a conversar breve y superficialmente con dos profesoras, colegas en el pasado. Una tiene 26 años (user1) y la otra 58(user2), de este modo cubriría los extremos etarios.  
+Los detalles más importantes es que, para la user2 es fundamental que sea simple, claro y fácil de usar. Para la user1 que no tenga demasiada publicidad y de tenerla que no sea invasiva, ni llene de notificaciones el celular, que sea intuitiva porque no quiere pensar y hacer cosas, sobre todo después de estar todo el día en clases. Para la user1, además, debe permitir cosas claras: anotar asistencia, notas acumulativas, porque no siempre anda con su libreta o le piden el libro de clases, sacándolo de la sala.  
+Con todo ello, me lancé a la aventura de diseñar y prototipar una aplicación que les permitiera a los profesores tener un conocimiento “inmediato” de sus cursos.  
+#### Sketching
+Lo primero fue considerar qué cosas necesitan hacer los profesores de manera rápida: notas acumulativas, notas parciales, asistencia (según el caso), agregar o eliminar estudiantes, observaciones de la clase (contenido, situaciones especiales, etc.).
+En honor al tiempo, sólo me enfoqué en los registros de los primeros tres puntos, no porque no me parezca importante. Todo registro que quiera ser un apoyo para el docente de aula debería considerar todos los puntos. Acá el problema era el tiempo. Si pretendía desarrollar un prototipo de baja calidad, pero entendible por otros, debía sacrificar algunos “detalles”.
+![sketch]( https://image.ibb.co/hKJmx7/flujo_sketch.png)
+Tome mi lápiz un par de hojas y el resultado es el de arriba. De ese modo se podría resolver el registro de notas acumulativas y parciales y de la asistencia, que para algunos profesores se traduce en un elemento importante de la evaluación (que es distinto de la calificación).
+#### Prototipado
+A esta altura ya habían pasado cerca de 45 minutos, entre la conversación veloz y el diseño rápido, así que debía volar armando las pantallas. Tenía claro que no podría realizar el UI que tenía planeado hacer. Probablemente, tampoco alcanzase a testear o a completar todas mis pantallas. Lo que si sabía es que el reloj avanzaba y cada vez se me ocurrían nuevos “detalles” que podrían ayudar: notificaciones, modales, nuevas pantallas, cambios de flujo, entre otros. Pero, a lo que iba, transformar los garabatos -conocidos técnicamente como “sketch”- a una forma que otros pudieran entender y, de paso, probar el flujo. Así que, manos a la obra…
+![prototipo]( https://image.ibb.co/jicJAS/Segundo_Ejercicio_4_4_001.jpg)
+
+#### Conclusiones segundo ejercicio
+Quise retar el tiempo e incorporar las restantes funcionalidades, pero sólo me sobraban poco más de 2 minutos. Así que, termino este reto sintiendo que me quedé con más puntos en mi lista de “carry over” que una aplicación decente.  
+Me hubiese gustado armar la posibilidad –básica- de agregar y eliminar estudiantes, porque es una situación concreta, la iteración de estudiantes se experimenta durante todo el año escolar. Mu hubiese gustado plantear la posibilidad de anotar los eventos importantes que ocurren en clases, así como el progreso en los contenidos-actividades; lo que se hace bastante complejo, ya a mitad del primer semestre, entre el estrés laboral, la carga académica, las reuniones técnicas, las actividades ministeriales, etc. recordar, fácilmente, en qué parte de la planificación va un curso determinado, se hace bastante complejo.  
+Ciertamente, los elementos incorporados ya son de utilidad. En mi experiencia tener los promedios de manera rápida o instantánea son muy útiles para darle feedback a los estudiantes, pero también recuerdo que los profesores solemos ser bastante desordenados al apuntar notas acumulativas surgidas del trabajo clase a clase, no de manera intencional, sino por el cansancio y el enfocarnos en el desarrollo de la clase. De modo, que al final esta retrospectiva puedo ver que, a pesar de mi sensación inicial, la aplicación actual cubre las necesidades básicas que un docente requiere al ingresar a la sala de clases.  
+Ciertamente, esta aplicación no detendrá su proceso aquí, sino que se encontrará en proceso en un futuro cercano.
+
