@@ -9,12 +9,11 @@ Del libro Solving Product Design Exercises (autor) se extrajeron 23 retos, los q
 1. Elige sólo tres ejercicios.
 2. Resuelve el primero en 15–30 minutos.
 3. Para el segundo tienes 1–2 horas.
-4. El tercer ejercicio puedes tomarte un día (24 horas) para resolverlo.
 
-El propósito de estos ejercicios es revisar y practicar posibles retos veloces recibidos en entrevistas laborales. Los que son dados para revisar el razonamiento (los más rápidos); otros toman más tiempo e incluso existen aquellos que deben ser resueltos en equipo y que permiten respaldar las soluciones y decisiones. Por último, existe el ejercicio “take home” cuyo resultado debiese ser más detallado y para los que se espera un prototipo de media o alta fidelidad, dependiendo del tiempo dado.
+El propósito de estos ejercicios es revisar y practicar posibles retos veloces recibidos en entrevistas laborales. Los que son dados para revisar el razonamiento (como los de esta actividad; otros toman más tiempo e incluso existen aquellos que deben ser resueltos en equipo y que permiten respaldar las soluciones y decisiones. Por último, existe el ejercicio “take home” cuyo resultado debiese ser más detallado y para los que se espera un prototipo de media o alta fidelidad, dependiendo del tiempo dado.
 
 ## Los ejercicios 
-Sólo debía elegir tres ejercicios de esta lista:
+Sólo debía elegir dos ejercicios de esta lista:
 
 * Diseña un landing page para un producto físico que cuesta más de US$ 200.
 * Linkedin ha decidido crear un marketplace para freelancers. Diseña un flujo para contratar un profesional.
@@ -40,7 +39,7 @@ Sólo debía elegir tres ejercicios de esta lista:
 * Crea un producto que ayude a las personas a mudarse a un nuevo país.
 * Diseña la UI de las pantallas de asientos de un avión/bus.
   
-En mi caso particular, y luego de revisar todos los retos de la lista, decidí quedarme con: i)Diseña un landing page para un producto físico que cuesta más de US$ 200; ii)Diseña una alarma/despertador para ciegos ; iii)Diseña un app mobile para que los profesores puedan administrar a sus cursos. A los que aplicaría, en ese orden, las instrucciones de tiempo, pero además le añadí un desafío extra: hacer un sketch siempre y digitalizarlo en Marvel.
+En mi caso particular, y luego de revisar todos los retos de la lista, decidí quedarme con: i)Diseña un landing page para un producto físico que cuesta más de US$ 200; ii)Diseña un app mobile para que los profesores puedan administrar a sus cursos. A los que aplicaría, en ese orden, las instrucciones de tiempo, pero además le añadí un desafío extra: hacer un sketch siempre y digitalizarlo en Marvel.
 
 ### Primer Ejercicio
 En el ejercicio uno, aquel que sólo debía durar 30 minutos opté por armar una landing page para un celular en que se mostrará el producto, sus características principales, un vídeo de su performance, información sobre el precio y un footer que incorporará enlaces a otras secciones del site, así como las redes sociales de la marca.
@@ -54,4 +53,6 @@ Al traspasar el diseño, lo primero que me encontré con que debía cambiar el o
 Aunque el tiempo no me permitió incorporar fotografías o dibujos a las secciones correspondientes o desarrollar el contenido que llevaría cada sección del landing. Tampoco logré generar un footer editado para la marca y el producto particular y debí quedarme con la plantilla que Marvel tiene por defecto. Claramente, en 30 minutos no podría realizar el diseño del modo que quisiera con: una paleta de colores definida, colores, tipografía, contenido visual y textual.  
 No obstante, a pesar del corto tiempo me siento satisfecha con el producto creado. Aunque, también reconoceré que para el primer reto escogí algo seguro, pues una landing page básica no debería tomar mucho más tiempo en lo visual, pero me hubiese gustado explorar el mercado, que está de moda, las evoluciones, las nuevas propuestas, etc.
 
+#  
 
+### Segundo Ejercicio
