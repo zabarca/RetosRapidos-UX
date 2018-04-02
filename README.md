@@ -56,3 +56,4 @@ No obstante, a pesar del corto tiempo me siento satisfecha con el producto cread
 #  
 
 ### Segundo Ejercicio
+En el segundo ejercicio, que debía durar como máximo 2 horas, opté por hacer uso de mi expericiencia previa como docente de aula y elegí el desafío de "diseñar un app mobile para que los profesores puedan administrar a sus cursos".
